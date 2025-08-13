@@ -13,7 +13,6 @@ description:
   zh_Hans: 通过LinuxDo Connect API连接LinuxDo论坛，支持身份验证、用户信息获取、内容搜索、个性化推荐和自动签到
   pt_BR: Conectar ao fórum LinuxDo com autenticação, verificação de usuário, busca de conteúdo, recomendações personalizadas e check-in automático via LinuxDo Connect API
 icon: icon.svg
-icon_dark: icon-dark.svg
 resource:
   memory: 268435456
   permission:

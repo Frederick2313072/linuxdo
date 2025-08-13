@@ -1,2 +1,17 @@
+# Dify插件SDK - 核心依赖
 dify_plugin>=0.2.0,<0.3.0
-requests>=2.31.0
+
+# HTTP请求库 - 用于LinuxDo Connect API调用
+requests>=2.31.0,<3.0.0
+
+# 以下为Python标准库，无需额外安装：
+# - base64: 用于Basic认证编码
+# - json: 用于JSON数据处理
+# - logging: 用于日志记录
+# - re: 用于正则表达式
+# - time: 用于时间处理
+# - datetime: 用于日期时间操作
+# - random: 用于随机数生成
+# - urllib.parse: 用于URL编码
+# - collections.abc: 用于抽象基类
+# - typing: 用于类型注解
