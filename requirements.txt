@@ -1,5 +1,5 @@
 # Dify插件SDK - 核心依赖
-dify_plugin>=0.2.0,<0.3.0
+dify_plugin>=0.3.0,<0.5.0
 
 # HTTP请求库 - 用于LinuxDo Connect API调用
 requests>=2.31.0,<3.0.0

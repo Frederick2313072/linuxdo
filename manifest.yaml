@@ -3,10 +3,10 @@ type: plugin
 author: frederick
 name: linuxdo
 label:
-  en_US: linuxdo
-  ja_JP: linuxdo
-  zh_Hans: linuxdo
-  pt_BR: linuxdo
+  en_US: LinuxDo
+  ja_JP: LinuxDo
+  zh_Hans: LinuxDo
+  pt_BR: LinuxDo
 description:
   en_US: Connect to LinuxDo forum with authentication, user verification, content search, personalized recommendations, and auto check-in via LinuxDo Connect API
   ja_JP: LinuxDo Connect APIを介してLinuxDoフォーラムに認証、ユーザー検証、コンテンツ検索、パーソナライズされた推奨、自動チェックインで接続
