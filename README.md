@@ -1,5 +1,7 @@
 # LinuxDo Connect Plugin for Dify
 
+[English](README_EN.md) | 中文
+
 **Author:** frederick  
 **Version:** 0.0.1  
 **Type:** tool  
@@ -332,7 +334,7 @@ linuxdo/
 如果您遇到任何问题或有改进建议，请通过以下方式联系：
 
 - **GitHub Issues**: [Report Issues](https://github.com/frederick/linuxdo-dify-plugin/issues)
-- **邮箱**: frederick@example.com
+- **邮箱**: 2313072@mail.nankai.edu.cn
 - **LinuxDo 论坛**: @frederick
 
 ---
